@@ -17,3 +17,7 @@
   "description": "teclado"
 }
 */
+
+#ENTIDADES
+
+Entity (User) < - > ORM < - > BD 
